@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Jake
-- 🌱 I’m currently learning minecraft modding
-- 😄 Pronouns: he/him
+Hi, I’m Jake
+I’m currently learning minecraft modding
 
 <!---
 JMeachhh/JMeachhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
